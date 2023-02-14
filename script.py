@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+
+## This script is made by Hadi Alnabriss for training purposes
 import time
 import random
 import threading
